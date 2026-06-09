@@ -6,4 +6,4 @@ A mid 2016 ROBLOX revival built using Laravel & Apache
 ---
 
 # Setup
-There are bat files to setup the server.
+There are bat files to setup the server and there are some paths that need to be replaced.
